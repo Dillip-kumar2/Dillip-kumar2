@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dillip-kumar2&label=Profile%20views&color=0e75b6&style=flat" alt="dillip-kumar2" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://taazascript.com/category/tech/](https://taazascript.com/category/tech/)
+- 👨‍💻 All of my Create notes projects are available at [https://bsebclasses.com/)]
 
 - 💬 Ask me about **JavaScript | React.js | Express.js | Node.js | MongoDB**
 
